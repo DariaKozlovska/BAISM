@@ -3,6 +3,7 @@ package com.example.bsaism
 import org.junit.Assert.assertEquals
 import org.junit.Test
 
+//Test do funkcji kalkulatora
 class CalculatorTest {
     @Test
     fun add_returnsSum() {
